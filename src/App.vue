@@ -3,7 +3,15 @@
     <div class="header">
       <img src="./assets/logo.png" />
       <h1>Todo application</h1>
-      <img src="./assets/cadillac.svg" />
+      <a href="https://zhuravlovalex.github.io/my-site-project/">
+        <img
+          src="./assets/cadillac.svg"
+          width="{60}"
+          height="{60}"
+          alt="logo"
+        />
+      </a>
+      <!-- <img src="./assets/cadillac.svg" /> -->
     </div>
     <hr />
     <router-view />
